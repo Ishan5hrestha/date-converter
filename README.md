@@ -1,5 +1,5 @@
 # Date Converter: BS <=> AD
-Simple date converter. Made for using in the project ** [Electricity-Demand-Prediction](https://github.com/Ishan5hrestha/Electricity-Demand-Prediction).**.
+Simple date converter. Made for using in the project [Electricity-Demand-Prediction](https://github.com/Ishan5hrestha/Electricity-Demand-Prediction).
 Has list of number of days in all the months from 2000 BS to 2090 BS  
 # Working
 You can see in adtobs() function:  
