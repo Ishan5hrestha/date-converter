@@ -158,7 +158,7 @@ def adtobs(year,month,day):
 
 print("bs_months(2077)",bs_months(2077))
 print("ad_months(2000)",ad_months(2000))
-print(adtobs(1998,8,10))
+#print(adtobs(1998,8,10))
 #print(f"{adtobs(2020,9,19)}")
 # print("adtobs(1974,6,20)",adtobs(1974,6,20))
 # print("adtobs(1967,12,10)",adtobs(1967,12,10))
