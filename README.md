@@ -1,4 +1,4 @@
-# Date Converter: BS <=> AD
+# Date Converter: BS ==> AD
 Simple date converter. Made for conversion of data in the project [Electricity-Demand-Prediction](https://github.com/Ishan5hrestha/Electricity-Demand-Prediction).
 Has list of number of days in all the months from 2000 BS to 2090 BS  
 # Working
