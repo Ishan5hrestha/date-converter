@@ -13,6 +13,6 @@ This number is added to **gate** date to get the required date.
 # Output
 The output looks like this:
 ```
-adtobs(2073,1,1): 2016,4,13,4
+adtobs(2016,4,13): 2073,1,1,4
 adtobs(2021,10,2): 2078,06,16,7
 ```
