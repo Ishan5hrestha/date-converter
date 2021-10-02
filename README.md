@@ -8,5 +8,5 @@ gate = [2073,1,1,4]
 tarik = [2016,4,13,4]
 ```
 Variable gate gives date in BS and tarik gives the same date in AD.  
-The date to be converted is substracted from corresponding date in same calendar to find out the difference in number of days.
-This number is added or substracted to the date of calender to be converted to and get the required date.
+The AD date substracted from **tarik** date to find out the difference in number of days.  
+This number is added to **gate** date to get the required date.
